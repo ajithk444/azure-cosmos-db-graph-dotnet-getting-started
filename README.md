@@ -60,8 +60,8 @@ foreach (KeyValuePair<string, string> gremlinQuery in gremlinQueries)
 }
 ```
 
-## Graph database support benefits
-Azure Cosmos DB provides you with a fully-managed graph database service with global distribution, elastic scaling of storage and throughput, automatic indexing and query, tunable consistency levels, and supports the Gremlin standard. It also provides the ability to use multiple models like document and graph over the same data. For example, You can use a document collection to store graph data side by side with documents, and use both SQL queries over JSON and Gremlin queries to query the collection.
+## Graph database support overview
+[Azure Cosmos DB](http://cosmosdb.com) provides you with a fully-managed graph database service with global distribution, elastic scaling of storage and throughput, automatic indexing and query, tunable consistency levels, and supports the Gremlin standard. It also provides the ability to use multiple models like document and graph over the same data. For example, you can use a document collection to store graph data side by side with documents, and use both SQL queries over JSON and Gremlin queries to query the collection.
 
 
 
